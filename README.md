@@ -25,6 +25,3 @@ Visual Studio Code
 Firebase
 
 Handlebars
-
-
-
